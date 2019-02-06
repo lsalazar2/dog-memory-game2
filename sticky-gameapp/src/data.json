@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/weimaraner-pup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "assets/images/whitepup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "assets/images/closeuppup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "assets/images/beagle pup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "assets/images/bear pup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "assets/images/bernese-mountain-dog.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "assets/images/black lab.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "assets/images/brownlab.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "assets/images/bulldog-on pillow.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "assets/images/bordercollie.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "assets/images/chihuahua-in a cup.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "assets/images/sad dog.jpg",
+      "clicked": false
+    }
+  ]
