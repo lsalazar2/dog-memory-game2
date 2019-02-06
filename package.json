@@ -1,5 +1,5 @@
 {
-  "name": "sticky-gameapp",
+  "name": "dog-memory-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,8 @@
     "react": "^16.7.0",
     "react-bootstrap": "^1.0.0-beta.5",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.3"
+    "react-scripts": "2.1.3",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -23,5 +24,15 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": "git+https://github.com/lsalazar2/dog-memory-game.git",
+  "author": "Lori Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsalazar2/dog-memory-game/issues"
+  },
+  "homepage": "https://github.com/lsalazar2/dog-memory-game#readme"
 }
