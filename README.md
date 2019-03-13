@@ -1,8 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Random dog picture memory game using React, Node.js, react-strap, annimate.css.
+
 Run the production build at:
 
 https://dog-memory-game3.herokuapp.com/
+
+React for the front-end with UI components, manages the dog picture images click state, and responds to user requests.
+
+The application generates 12 images and requests the user to click on an image. Once clicked, the images are moved around in a random order where the user must continue to click on unique images. Once the user clicks on a previously clicked image, the game is over with the high score shown as the number of successful clicks. The game is then reset with their score reset to 0, and showing the current previous high score so the user can try again and play a new game.
 
 ### `npm start`
 
@@ -23,4 +29,4 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Your app is then ready to be deployed!
